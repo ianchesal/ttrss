@@ -15,3 +15,8 @@ If you're running Ubuntu 18.04 you can get up and running with:
      ./install-ttrss.sh
 
 Once you're done, TTRSS listening on http://localhost:80 for you with `admin:password` as the login information.
+
+## Dependencies
+
+* Using clue's ttrss Docker image from here: https://github.com/clue/docker-ttrss
+* Using the default Postgres Docker image: https://hub.docker.com/_/postgres/
